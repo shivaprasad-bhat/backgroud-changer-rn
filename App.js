@@ -4,7 +4,7 @@ import {Text} from 'react-native';
 const App = () => {
   return (
     <>
-      <Text>Shivaprasad</Text>
+      <Text>Background Changer</Text>
     </>
   );
 };
